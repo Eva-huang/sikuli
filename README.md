@@ -1,5 +1,5 @@
 # sikuli
-This is a repository for saving sikuli scripts.
+This is a repository saving sikuli scripts.
 --- 
 - **Scripts** folder save scripts.
 - **Icons** folder save icons on sfotware.
